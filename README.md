@@ -1,4 +1,4 @@
-![CleanShot 2023-10-08 at 21 27 17@2x](https://github.com/suvasanket/MovieApp/assets/113333521/37ec18d5-fd18-411d-bb03-f1f41cb494c1)# Screenshots:
+# Screenshots:
 ![CleanShot 2023-10-08 at 21 23 05@2x](https://github.com/suvasanket/MovieApp/assets/113333521/7845efad-f77c-444b-8d73-57096569a490)
 ![CleanShot 2023-10-08 at 21 22 17@2x](https://github.com/suvasanket/MovieApp/assets/113333521/8e407aa8-76df-4165-bfd4-5f579eac4e75)
 
