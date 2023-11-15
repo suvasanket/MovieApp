@@ -1,5 +1,9 @@
 # Screenshots:
-![CleanShot 2023-10-08 at 21 23 05@2x](https://github.com/suvasanket/MovieApp/assets/113333521/7845efad-f77c-444b-8d73-57096569a490)
+- This is a simple movie search site created as a beginners project 
+- The main focus is how to implement **backend api** into your own app
+- I'm currently studing on interation with api for adding the use review sytem
+
+![CleanShot 2023-11-15 at 11 59 37@2x](https://github.com/suvasanket/MovieApp/assets/113333521/bbc4a079-5951-4c06-8777-0ec0d8434c24)
 ![CleanShot 2023-10-08 at 21 22 17@2x](https://github.com/suvasanket/MovieApp/assets/113333521/8e407aa8-76df-4165-bfd4-5f579eac4e75)
 
 ## Searching:
