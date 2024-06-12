@@ -1,7 +1,7 @@
 import express from "express";
 import cors from "cors";
 
-import reviews from "/Users/suvasanketrout/codes/projects/web/shit/review_back/api/reviews.route.js";
+import reviews from "/Users/suvasanketrout/codes/projects/web/Movie-Search/review_back/api/reviews.route.js";
 
 const app = express();
 

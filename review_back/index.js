@@ -1,4 +1,4 @@
-import app from "/Users/suvasanketrout/codes/projects/web/shit/review_back/server.js";
+import app from "/Users/suvasanketrout/codes/projects/web/Movie-Search/review_back/server.js";
 import mongodb from "mongodb";
 // import ReviewsDAO from "./dao/reviewsDAO.js";
 
